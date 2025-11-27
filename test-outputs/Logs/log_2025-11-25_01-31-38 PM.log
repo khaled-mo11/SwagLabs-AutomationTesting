@@ -1,0 +1,8 @@
+[INFO] 2025-11-25 01:31:39 PM [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:37)] - Driver is opened
+[INFO] 2025-11-25 01:31:41 PM [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:39)] - Page is redirected to base_url
+[INFO] 2025-11-25 01:31:41 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case CheckOutStepOneTC started
+[INFO] 2025-11-25 01:31:42 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 2
+[INFO] 2025-11-25 01:31:42 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 3
+[INFO] 2025-11-25 01:31:42 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 5
+[INFO] 2025-11-25 01:31:52 PM [main] [Listeners.IInvokeMethodListenerClass.afterInvocation(IInvokeMethodListenerClass.java:23)] - Test Case CheckOutStepOneTCfailed
+[INFO] 2025-11-25 01:31:53 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed

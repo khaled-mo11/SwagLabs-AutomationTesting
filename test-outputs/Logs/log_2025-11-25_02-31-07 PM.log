@@ -1,0 +1,12 @@
+[INFO] 2025-11-25 02:31:07 PM [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:35)] - Driver is opened
+[INFO] 2025-11-25 02:31:08 PM [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:37)] - Page is redirected to base_url
+[INFO] 2025-11-25 02:31:08 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case ComparingPricesTC started
+[INFO] 2025-11-25 02:31:09 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 2
+[INFO] 2025-11-25 02:31:09 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 3
+[INFO] 2025-11-25 02:31:09 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 4
+[INFO] 2025-11-25 02:31:09 PM [main] [Pages.P02_HomePage.getTotalPriceOfSelectedProducts(P02_HomePage.java:102)] - Cart Total Price = 75.97
+[INFO] 2025-11-25 02:31:09 PM [main] [Pages.P03_CartPage.comparingPrices(P03_CartPage.java:24)] - Total Price from Home Page = 75.97
+[INFO] 2025-11-25 02:31:09 PM [main] [Pages.P03_CartPage.comparingPrices(P03_CartPage.java:25)] - Total Price from Cart Page = 75.97
+[INFO] 2025-11-25 02:31:09 PM [main] [Pages.P03_CartPage.comparingPrices(P03_CartPage.java:27)] - Prices are matching
+[INFO] 2025-11-25 02:31:09 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case ComparingPricesTC passed
+[INFO] 2025-11-25 02:31:09 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed

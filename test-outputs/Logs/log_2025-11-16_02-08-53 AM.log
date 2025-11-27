@@ -1,0 +1,33 @@
+[INFO] 2025-11-16 02:08:53 AM [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:30)] - Driver is opened
+[INFO] 2025-11-16 02:08:54 AM [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:32)] - Page is redirected to base_url
+[INFO] 2025-11-16 02:08:55 AM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case validLoginTC started
+[INFO] 2025-11-16 02:08:56 AM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case validLoginTC passed
+[INFO] 2025-11-16 02:08:56 AM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-16 02:08:57 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-16 02:08:59 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-16 02:08:59 AM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case addingRandomProductsToCartTC started
+[INFO] 2025-11-16 02:09:01 AM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 1
+[INFO] 2025-11-16 02:09:01 AM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 2
+[INFO] 2025-11-16 02:09:01 AM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 5
+[INFO] 2025-11-16 02:09:01 AM [main] [Pages.P02_HomePage.getNumberOfProductOnCartIcon(P02_HomePage.java:50)] - number of products on cart icon: 3
+[INFO] 2025-11-16 02:09:01 AM [main] [Pages.P02_HomePage.getNumberOfAllSelectedProducts(P02_HomePage.java:62)] - number of selected products: 3
+[INFO] 2025-11-16 02:09:01 AM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case addingRandomProductsToCartTC passed
+[INFO] 2025-11-16 02:09:02 AM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-16 02:09:03 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-16 02:09:05 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-16 02:09:05 AM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case checkingNumberOfSelectedProductsTC started
+[INFO] 2025-11-16 02:09:06 AM [main] [Pages.P02_HomePage.addAllProductToCart(P02_HomePage.java:39)] - number of all products: 6
+[INFO] 2025-11-16 02:09:07 AM [main] [Pages.P02_HomePage.getNumberOfProductOnCartIcon(P02_HomePage.java:50)] - number of products on cart icon: 6
+[INFO] 2025-11-16 02:09:07 AM [main] [Pages.P02_HomePage.getNumberOfAllSelectedProducts(P02_HomePage.java:62)] - number of selected products: 6
+[INFO] 2025-11-16 02:09:07 AM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case checkingNumberOfSelectedProductsTC passed
+[INFO] 2025-11-16 02:09:08 AM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-16 02:09:09 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-16 02:09:11 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-16 02:09:11 AM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case clickingOnCartIconTC started
+[INFO] 2025-11-16 02:09:12 AM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case clickingOnCartIconTC passed
+[INFO] 2025-11-16 02:09:12 AM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-16 02:09:14 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-16 02:09:16 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-16 02:09:16 AM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case verifyLogOutTC started
+[INFO] 2025-11-16 02:09:17 AM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case verifyLogOutTC passed
+[INFO] 2025-11-16 02:09:18 AM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed

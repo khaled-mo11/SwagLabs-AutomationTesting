@@ -1,0 +1,6 @@
+[INFO] 2025-11-15 09:36:21 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:30)] - Driver is opened
+[INFO] 2025-11-15 09:36:25 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:32)] - Page is redirected to base_url
+[INFO] 2025-11-15 09:36:25 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case clickingOnCartIconTC started
+[INFO] 2025-11-15 09:36:25 PM [main] [Pages.P02_HomePage.verifyCartPageURL(P02_HomePage.java:97)] - Page redirected to Cart page URL successfully
+[INFO] 2025-11-15 09:36:26 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case clickingOnCartIconTC passed
+[INFO] 2025-11-15 09:36:26 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed

@@ -1,0 +1,5 @@
+[INFO] 2025-11-15 10:57:24 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-15 10:57:26 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-15 10:57:26 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case clickingOnCartIconTC started
+[INFO] 2025-11-15 10:57:27 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case clickingOnCartIconTC passed
+[INFO] 2025-11-15 10:57:27 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed

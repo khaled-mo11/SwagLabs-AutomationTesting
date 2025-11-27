@@ -1,0 +1,8 @@
+[INFO] 2025-11-14 12:35:46 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-14 12:35:50 AM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-14 12:35:50 AM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case checkingNumberOfSelectedProductsTC started
+[INFO] 2025-11-14 12:35:51 AM [main] [Pages.P02_HomePage.addAllProductToCart(P02_HomePage.java:32)] - number of all products: 6
+[INFO] 2025-11-14 12:35:53 AM [main] [Pages.P02_HomePage.getNumberOfProductOnCartIcon(P02_HomePage.java:43)] - number of products on cart icon: 6
+[INFO] 2025-11-14 12:35:53 AM [main] [Pages.P02_HomePage.getNumberOfAllSelectedProducts(P02_HomePage.java:55)] - number of selected products: 6
+[INFO] 2025-11-14 12:35:53 AM [main] [Listeners.IInvokeMethodListenerClass.afterInvocation(IInvokeMethodListenerClass.java:23)] - Test Case checkingNumberOfSelectedProductsTCfailed
+[INFO] 2025-11-14 12:35:58 AM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed

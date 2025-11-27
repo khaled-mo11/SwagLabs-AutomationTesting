@@ -1,0 +1,87 @@
+[INFO] 2025-11-26 09:10:45 PM [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:30)] - Driver is opened
+[INFO] 2025-11-26 09:10:46 PM [main] [Tests.TC01_LoginTest.setup(TC01_LoginTest.java:32)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:10:46 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case validLoginTC started
+[INFO] 2025-11-26 09:10:46 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case validLoginTC passed
+[INFO] 2025-11-26 09:10:47 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:10:48 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-26 09:10:49 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:10:49 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case addingRandomProductsToCartTC started
+[INFO] 2025-11-26 09:10:49 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 1
+[INFO] 2025-11-26 09:10:49 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 2
+[INFO] 2025-11-26 09:10:49 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 4
+[INFO] 2025-11-26 09:10:49 PM [main] [Pages.P02_HomePage.getNumberOfProductOnCartIcon(P02_HomePage.java:50)] - number of products on cart icon: 3
+[INFO] 2025-11-26 09:10:49 PM [main] [Pages.P02_HomePage.getNumberOfAllSelectedProducts(P02_HomePage.java:62)] - number of selected products: 3
+[INFO] 2025-11-26 09:10:49 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case addingRandomProductsToCartTC passed
+[INFO] 2025-11-26 09:10:50 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:10:50 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-26 09:10:52 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:10:52 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case checkingNumberOfSelectedProductsTC started
+[INFO] 2025-11-26 09:10:52 PM [main] [Pages.P02_HomePage.addAllProductToCart(P02_HomePage.java:39)] - number of all products: 6
+[INFO] 2025-11-26 09:10:52 PM [main] [Pages.P02_HomePage.getNumberOfProductOnCartIcon(P02_HomePage.java:50)] - number of products on cart icon: 6
+[INFO] 2025-11-26 09:10:52 PM [main] [Pages.P02_HomePage.getNumberOfAllSelectedProducts(P02_HomePage.java:62)] - number of selected products: 6
+[INFO] 2025-11-26 09:10:52 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case checkingNumberOfSelectedProductsTC passed
+[INFO] 2025-11-26 09:10:53 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:10:53 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-26 09:10:55 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:10:55 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case clickingOnCartIconTC started
+[INFO] 2025-11-26 09:10:55 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case clickingOnCartIconTC passed
+[INFO] 2025-11-26 09:10:55 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:10:56 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-26 09:10:57 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:10:57 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case verifyLogOutTC started
+[INFO] 2025-11-26 09:10:58 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case verifyLogOutTC passed
+[INFO] 2025-11-26 09:10:58 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:10:59 PM [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:35)] - Driver is opened
+[INFO] 2025-11-26 09:11:00 PM [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:37)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:11:00 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case ComparingPricesTC started
+[INFO] 2025-11-26 09:11:00 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 3
+[INFO] 2025-11-26 09:11:00 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 4
+[INFO] 2025-11-26 09:11:00 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 6
+[INFO] 2025-11-26 09:11:01 PM [main] [Pages.P02_HomePage.getTotalPriceOfSelectedProducts(P02_HomePage.java:102)] - Home Price = 81.97
+[INFO] 2025-11-26 09:11:01 PM [main] [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:33)] - Cart Total Price = 81.97
+[INFO] 2025-11-26 09:11:01 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case ComparingPricesTC passed
+[INFO] 2025-11-26 09:11:01 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:11:02 PM [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:37)] - Driver is opened
+[INFO] 2025-11-26 09:11:03 PM [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:39)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:11:03 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case CheckOutStepOneTC started
+[INFO] 2025-11-26 09:11:03 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 1
+[INFO] 2025-11-26 09:11:03 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 2
+[INFO] 2025-11-26 09:11:03 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 6
+[INFO] 2025-11-26 09:11:03 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case CheckOutStepOneTC passed
+[INFO] 2025-11-26 09:11:04 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:11:04 PM [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:37)] - Driver is opened
+[INFO] 2025-11-26 09:11:06 PM [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:39)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:11:06 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case CheckOutStepTwoTC started
+[INFO] 2025-11-26 09:11:06 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 3
+[INFO] 2025-11-26 09:11:06 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 4
+[INFO] 2025-11-26 09:11:06 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 5
+[INFO] 2025-11-26 09:11:06 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:22)] - First Name khaled Sent Successfully
+[INFO] 2025-11-26 09:11:06 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:24)] - Last Name mohamed Sent Successfully
+[INFO] 2025-11-26 09:11:07 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:26)] - Postal Code 1115 Sent Successfully
+[INFO] 2025-11-26 09:11:07 PM [main] [Tests.TC04_CheckoutTest.CheckOutStepTwoTC(TC04_CheckoutTest.java:67)] - khaled mohamed 1115 Sent Successfully
+[INFO] 2025-11-26 09:11:07 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case CheckOutStepTwoTC passed
+[INFO] 2025-11-26 09:11:07 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:11:08 PM [main] [Tests.TC05_SecondCheckoutPageTest.setup(TC05_SecondCheckoutPageTest.java:36)] - Driver is opened
+[INFO] 2025-11-26 09:11:08 PM [main] [Tests.TC05_SecondCheckoutPageTest.setup(TC05_SecondCheckoutPageTest.java:38)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:11:08 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case CheckOutStepTwoTC started
+[INFO] 2025-11-26 09:11:08 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 3
+[INFO] 2025-11-26 09:11:09 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 4
+[INFO] 2025-11-26 09:11:09 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 6
+[INFO] 2025-11-26 09:11:09 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:22)] - First Name khaled Sent Successfully
+[INFO] 2025-11-26 09:11:09 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:24)] - Last Name mohamed Sent Successfully
+[INFO] 2025-11-26 09:11:09 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:26)] - Postal Code 1115 Sent Successfully
+[INFO] 2025-11-26 09:11:09 PM [main] [Pages.P05_SecondCheckoutPage.CalculateTotalPrice(P05_SecondCheckoutPage.java:33)] - Calculated Total Price=  88.53
+[INFO] 2025-11-26 09:11:10 PM [main] [Pages.P05_SecondCheckoutPage.getTotal(P05_SecondCheckoutPage.java:28)] - Actual Total Price=  88.53
+[INFO] 2025-11-26 09:11:10 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case CheckOutStepTwoTC passed
+[INFO] 2025-11-26 09:11:10 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed
+[INFO] 2025-11-26 09:11:11 PM [main] [Tests.TC_06CheckoutCompleteTest.setup(TC_06CheckoutCompleteTest.java:36)] - Driver is opened
+[INFO] 2025-11-26 09:11:11 PM [main] [Tests.TC_06CheckoutCompleteTest.setup(TC_06CheckoutCompleteTest.java:38)] - Page is redirected to base_url
+[INFO] 2025-11-26 09:11:11 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case FinishOrderTC started
+[INFO] 2025-11-26 09:11:11 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 1
+[INFO] 2025-11-26 09:11:12 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 2
+[INFO] 2025-11-26 09:11:12 PM [main] [Pages.P02_HomePage.addRandomProductNumberToCart(P02_HomePage.java:78)] - randomNumber 5
+[INFO] 2025-11-26 09:11:12 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:22)] - First Name khaled Sent Successfully
+[INFO] 2025-11-26 09:11:12 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:24)] - Last Name mohamed Sent Successfully
+[INFO] 2025-11-26 09:11:12 PM [main] [Pages.P04_CheckoutPage.FillingInformationForm(P04_CheckoutPage.java:26)] - Postal Code 1115 Sent Successfully
+[INFO] 2025-11-26 09:11:12 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case FinishOrderTC passed
+[INFO] 2025-11-26 09:11:13 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed

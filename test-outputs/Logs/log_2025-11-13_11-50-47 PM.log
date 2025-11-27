@@ -1,0 +1,10 @@
+[INFO] 2025-11-13 11:50:47 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:31)] - Driver is opened
+[INFO] 2025-11-13 11:50:49 PM [main] [Tests.TC02_HomeTest.setup(TC02_HomeTest.java:33)] - Page is redirected to base_url
+[INFO] 2025-11-13 11:50:49 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case checkingNumberOfSelectedProductsTC started
+[INFO] 2025-11-13 11:50:49 PM [main] [Pages.P01_LoginPage.enterUsername(P01_LoginPage.java:22)] - Entered username: standard_user
+[INFO] 2025-11-13 11:50:49 PM [main] [Pages.P01_LoginPage.enterPassword(P01_LoginPage.java:28)] - Entered password: secret_sauce
+[INFO] 2025-11-13 11:50:50 PM [main] [Pages.P02_HomePage.addAllProductToCart(P02_HomePage.java:27)] - number of all products: 6
+[INFO] 2025-11-13 11:50:51 PM [main] [Pages.P02_HomePage.getNumberOfProductOnCartIcon(P02_HomePage.java:38)] - number of products on cart icon: 6
+[INFO] 2025-11-13 11:50:51 PM [main] [Pages.P02_HomePage.getNumberOfAllSelectedProducts(P02_HomePage.java:50)] - number of selected products: 6
+[INFO] 2025-11-13 11:50:51 PM [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:14)] - Test Case checkingNumberOfSelectedProductsTC passed
+[INFO] 2025-11-13 11:50:51 PM [main] [DriverFactory.DriverFactory.quitDriver(DriverFactory.java:44)] - Driver is closed

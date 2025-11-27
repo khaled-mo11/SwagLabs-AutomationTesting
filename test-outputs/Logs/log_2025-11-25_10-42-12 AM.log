@@ -1,0 +1,4 @@
+[INFO] 2025-11-25 10:42:12 AM [main] [Tests.TC03_CartTest.setup(TC03_CartTest.java:33)] - Edge Browser is Opened
+[INFO] 2025-11-25 10:42:12 AM [main] [Listeners.IInvokeMethodListenerClass.afterInvocation(IInvokeMethodListenerClass.java:23)] - Test Case setupfailed
+[INFO] 2025-11-25 10:42:13 AM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case ComparingPricesTC started
+[INFO] 2025-11-25 10:42:13 AM [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:18)] - Test Case ComparingPricesTC skipped

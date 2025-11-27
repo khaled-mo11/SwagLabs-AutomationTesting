@@ -1,0 +1,4 @@
+[INFO] 2025-11-25 12:05:41 PM [main] [Tests.TC04_CheckoutTest.setup(TC04_CheckoutTest.java:36)] - Edge Browser is Opened
+[INFO] 2025-11-25 12:05:41 PM [main] [Listeners.IInvokeMethodListenerClass.afterInvocation(IInvokeMethodListenerClass.java:23)] - Test Case setupfailed
+[INFO] 2025-11-25 12:05:41 PM [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] - Test Case CheckOutStepOneTC started
+[INFO] 2025-11-25 12:05:41 PM [main] [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:18)] - Test Case CheckOutStepOneTC skipped
